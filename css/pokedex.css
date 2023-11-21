@@ -1,0 +1,202 @@
+body{
+    background: #EF3B36;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #EF3B36);
+    background: linear-gradient(to right, #FFFFFF, #EF3B36);
+    cursor: url(https://sweezy-cursors.com/wp-content/uploads/cursor/pokemon-pikachu-animated/pokemon-pikachu-animated-cursor-1-32x32.png), default!important
+
+}
+
+.pokemon-grass{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#7ccc54;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-psychic{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#fc74a4;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-ice{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#5ccce4;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-dragon{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#7c64e4;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+
+.pokemon-rock{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#bca45c;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+
+.pokemon-fighting{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#a4543c;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-fairy{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#f4b4f4;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-poison{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#b45ca4;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-ground{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#d4b45c;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+
+.pokemon-ghost{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color :#c402ff;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-fire{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color: #f45434;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+
+.pokemon-water{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color: #3c9cfc;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-bug{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color: #acbc24;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-electric{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color: #fcc434;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+.pokemon-normal{
+    width: 14%;
+
+    font-family: "euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    text-align: center;
+    display: inline-block;
+    background-color: #aca494;
+    border-radius: 30px;
+    size: 20px;
+    margin-left: 7px;
+}
+
+h2{
+
+
+    font-size:0.5vw
+
+}
+
+
+
+

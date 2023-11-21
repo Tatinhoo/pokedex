@@ -1,0 +1,37 @@
+body{
+    background: #685ef5;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #685ef5);
+    background: linear-gradient(to right, #FFFFFF, #685ef5);
+    cursor: url(https://sweezy-cursors.com/wp-content/uploads/cursor/pokemon-pikachu-animated/pokemon-pikachu-animated-cursor-1-32x32.png), default!important
+}
+
+.imagem {
+    font-family: "Verdana","euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    border-radius: 30px;
+    text-align: center;
+    display: inline-block;
+    background-color :rgba(126, 92, 247, 0.884);
+    size: 20px;
+    box-shadow: 0 3px 7px 0 rgba(0,0,0,0.35);
+}
+
+.imagem img {
+    border-radius: 10px;
+}
+
+.titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+    text-shadow: 
+             -1px -1px 0px #FFF, 
+             -1px 1px 0px #FFF,                    
+              1px -1px 0px #FFF,                  
+              1px 0px 0px #FFF;
+}
+
+.canalMusica{
+
+    padding-left: -90px;
+    padding-top: -90px;
+
+}

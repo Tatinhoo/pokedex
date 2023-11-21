@@ -1,0 +1,62 @@
+    @media (max-width:687px) {
+        .info{
+    
+            transform: translateX(-100px);
+    
+        }
+        .inforeais p{
+    
+            transform: translateY(300px);
+    
+        }
+    
+        .detalhes{
+    
+            transform: translateY(-1140px) translateX(0.5px);
+            size: 5px;
+            font-size: 15px;
+    
+        }
+        .imagem #fototallys, #fotoguilherme{
+
+            height: 100px;
+        }
+        #canalMusica{
+            transform: translateY(0px)
+            
+        }
+        .col-sm-6{
+
+            transform: translateY(334px)
+            translateX(-190px)
+        }
+    
+        #guilhermeCard{
+
+               
+            transform: translateY(-792px) translateX(0.5px);
+    
+        }
+        #carouselExample{
+
+            transform: translateY(168px) translateX(0.5px);
+        }
+        .like{
+            transform: translateY(600px);
+        }
+
+
+        .info2{
+
+            transform: translateY(400px);
+        }
+
+        .pokemon-water{
+            
+            width: 150px;
+        }
+        .pokemon-water h2{
+            
+            font-size: 220px;
+        }
+    }

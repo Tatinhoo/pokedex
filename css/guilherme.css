@@ -1,0 +1,64 @@
+body{
+    background: #666666;
+    background: -webkit-linear-gradient(to right, #FFFFFF,  #ffffff);
+    background: linear-gradient(to right, rgb(255, 255, 255),  #000000);
+    cursor: url(https://sweezy-cursors.com/wp-content/uploads/cursor/pokemon-pikachu-animated/pokemon-pikachu-animated-cursor-1-32x32.png), default!important
+}
+
+.imagem {
+    font-family: "Verdana","euclid_circular_a","Arial","Source Sans Pro","Helvetica";
+    border-radius: 30px;
+    text-align: center;
+    display: inline-block;
+    background-color :#FFF;
+    size: 20px;
+    box-shadow: 0 3px 7px 0 rgba(0, 0, 0, 0.35);
+}
+
+.imagem img {
+    border-radius: 10px;
+}
+.like{
+    text-align: left;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+#gui{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: end;
+color: #ffffffc0;
+}
+.h2{
+    font-family: cursives;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.riolu{
+    height: 40%;
+    width: 72%;
+    border-radius: 50vh;
+    
+}
+.riolu2{
+    text-align: center;
+}
+.cubone{
+    padding: 15px;
+width: 98%;
+height: 67%;
+border-radius: 50px;
+}
+.homem{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.col-4{
+    font-size: 2vh;
+    color: #FFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    left: auto;
+}
